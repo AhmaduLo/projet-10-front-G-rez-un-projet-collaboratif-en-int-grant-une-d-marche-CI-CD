@@ -1,0 +1,7 @@
+organization=ahmadulo
+projectKey=AhmaduLo_projet10-frontend
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.65687
+dashboardUrl=https://sonarcloud.io/dashboard?id=AhmaduLo_projet10-frontend
+ceTaskId=AZg8_sm5Mu3jcS1zFMS8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZg8_sm5Mu3jcS1zFMS8

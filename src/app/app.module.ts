@@ -19,10 +19,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     BrowserAnimationsModule,
     HttpClientModule,
     MatToolbarModule,
-    MatIconModule,
-    MatButtonModule,
     MatCardModule,
-    MatDividerModule
+    MatDividerModule,
+    MatIconModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
