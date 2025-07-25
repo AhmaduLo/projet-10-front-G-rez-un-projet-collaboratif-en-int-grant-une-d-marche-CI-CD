@@ -1,0 +1,15 @@
+#app .container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+#app .container .card {
+  max-width: 600px;
+  width: 100%;
+}
+#app .container .card .content {
+  margin-top: 20px;
+}
+#app .container .card .content .joke {
+  font-size: 18px;
+}/*# sourceMappingURL=app.component.css.map */

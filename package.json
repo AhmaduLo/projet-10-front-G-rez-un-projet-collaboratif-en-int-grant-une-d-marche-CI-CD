@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:coverage": "ng test --watch=false --code-coverage",
-    "sonar": "npm run test:coverage && node sonar.js"
+    "sonar": "node sonar.js"
   },
   "private": true,
   "dependencies": {
